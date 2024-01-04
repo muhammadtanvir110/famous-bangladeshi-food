@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    border: 0px;
+}
+body{
+    background-color: black;
+}
+*{
+    margin: none;
+}
+#id001{
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    background-color: pink;
+    padding: 20px;
+    font-weight: 900;
+    /* line-height: px; */
+    /* letter-spacing: none; */
+    
+    /* text-decoration: line-through; */
+    /* text-indent: 79px; */
+}
+.class001{
+    color: pink;
+    font-size: 25px;
+}
+h1{
+    color: palevioletred;
+    /* display: inline; */
+    font-size: 45px;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+h2{
+    color: palevioletred;
+    display: inline;
+    text-decoration: underline;
+    font-size: 30px;
+}
+p{
+    color: pink;
+    padding-top: 5px;
+}
